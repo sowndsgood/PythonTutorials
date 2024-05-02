@@ -1,0 +1,4 @@
+ Wordcount: 6Teacher: Why are you late, raghu?
+ Wordcount: 5Raghu: Because of the sign
+ Wordcount: 3Teacher: What sign?
+ Wordcount: 9Raghu: The one that says "School Ahead, Go slow"
